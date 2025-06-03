@@ -65,7 +65,7 @@
   - Journal entry: “Why going against the trend is like arguing with a supercomputer—thrilling, but usually one-sided.”  
 - **Fitness Experiments**:  
   - Liver recovery! (no alcohol, no cheese, all the ginger-turmeric you can handle).  
- - **Philosophy & Faith**:  
+ - **Philosophy & Faith**:
   - Embracing thought-flipping to challenge my own beliefs (and occasionally annoy friends with Socratic questions).  
 
 ---
