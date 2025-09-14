@@ -15,8 +15,7 @@
 - **Passions & Side Quests**:  
   - 📈 **Futures Trading**: Chart patterns, Fibonacci levels, ATR, and the ever-thrilling NQ scalp hunt.  
   - 🧠 **Thought-Flipping Theory**: Challenging assumptions, exploring creative perspectives, and applying sparring techniques to tech, business, and even the military-industrial complex.  
-- **Fun Fact**:  
-  - I once made 90+ trades on a single NQ contract in one day, swinging from –\$900 to +\$450 and back to +\$200. My heart rate could write its own blog post!  
+
 
 ---
 
