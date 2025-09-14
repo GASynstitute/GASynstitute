@@ -32,21 +32,6 @@
   
 ---
 
-## 🚀 Current Projects
-
-1. **NetShield Home (Proof of Concept)**  
-   _👀 Sneak Peek_: A lightweight agent for residential networks that:  
-   - Monitors traffic 24/7  
-   - Alerts on suspicious events  
-   - Shuns unwanted IPs automatically  
-   - Offers one-click rollback of compromised Windows endpoints  
-   - 🔄 (Subscription-based, “set it and forget it” for busy homeowners)  
-
-2. **Thought-Flipping & Brainstorms**  
-   - Documenting counterintuitive “what if” scenarios in cloud security  
-   - Writing up “social exploits” to highlight bias loops in tech decision-making  
-
----
 
 ## 🌱 Learning & Growth
 
@@ -54,22 +39,4 @@
 - **Next Up**:  
   - Deepening Python skills (because 🤖 definitely needs a Python brain)  
   - Exploring Web 3.0 use cases (💡 “How can a 29-year-old sysadmin survive Web 3.0?”)  
-
----
-
-## 🎯 Interests Beyond IT
-
-- **Trading Floor Tales**:  
-  - Charting mini-Nasdaq futures, hunting scalps, and surviving the roller coaster.  
-  - Journal entry: “Why going against the trend is like arguing with a supercomputer—thrilling, but usually one-sided.”  
-- **Fitness Experiments**:  
-  - Liver recovery! (no alcohol, no cheese, all the ginger-turmeric you can handle).  
-- **Philosophy**:  
-  - Embracing thought-flipping to challenge my own beliefs (and occasionally annoy friends with Socratic questions).  
-
----
-
-
-> “Let’s turn ‘it works on my machine’ into ‘it works everywhere.’”  
-> – GASynstitute  
 
